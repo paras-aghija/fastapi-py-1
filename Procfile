@@ -1,0 +1,1 @@
+web: gunincorn -w 4 -k uvicorn.workers.UvicornWorker myApi:app
